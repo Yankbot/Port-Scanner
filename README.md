@@ -1,3 +1,3 @@
-# Port-Scanner
+# Port_Scanner
 Simple port scanner using python.
-Run in terminal using "python3 portscanner.py (target ip/hostname)"
+Run in terminal using "python3 port_scanner.py (target ip/hostname)"
